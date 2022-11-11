@@ -1,0 +1,21 @@
+/* table head */
+.table-head{
+    background-color: rgb(229, 206, 174);
+    font-size: 30px;
+    
+}
+/* table body */
+.table-body{
+    background-color: rgb(229, 206, 174);
+    
+}
+/* taqble margin and width */
+table{
+    margin: 20px;
+    width: 500px;
+    
+}
+/* the list */
+.list{
+    margin-left: 20px;
+}

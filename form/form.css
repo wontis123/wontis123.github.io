@@ -1,0 +1,29 @@
+/* the next link to the next form */
+.next-link{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
+.next-link:hover{
+    font-size: 30px;
+    font: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* ------ form style------- */
+.text-input{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.number-input{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+/* easter egg */
+.easter-egg{
+    color: bisque;
+    font-size: 10px;
+    margin-left: 90%;
+    margin-top: 20%;
+}

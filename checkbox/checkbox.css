@@ -1,0 +1,28 @@
+/* the form css */
+form {
+    display: flex;
+    flex-flow: column;
+}
+/* label css */
+label {
+    font-size: 20px;
+    margin-left : 10px;
+}
+/* submit buttons css */
+.submit {
+    text-decoration: none;
+    font-size: 23px;
+    color: black;
+
+}
+
+.submit:hover {
+    font-weight: bold;
+    font-size: 25px;
+}
+/* the question div css */
+.question {
+    margin: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}

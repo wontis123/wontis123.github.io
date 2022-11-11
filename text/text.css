@@ -1,0 +1,35 @@
+/* the text itself */
+.text {
+    width: 50%;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+/* the text h1 */
+h1 {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+/* the link to table.html */
+.table-link-text {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.table-link-text:hover {
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+/* the more info div */
+.more-info {
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 20px;
+}
